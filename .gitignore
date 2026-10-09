@@ -1,0 +1,17 @@
+data/
+output/
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.ruff_cache/
+frontend/node_modules/
+frontend/dist/
+.env
+.env.*
+*.log
+*.sqlite*
+*.xlsx
+*.docx
+*.zip
+.supergoal/

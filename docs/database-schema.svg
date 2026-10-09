@@ -1,0 +1,306 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1800" height="1400" viewBox="0 0 1800 1400">
+<title>Монолит — схема базы данных</title>
+<desc>Девять таблиц SQLite, все поля и двенадцать связей внешних ключей.</desc>
+<rect width="100%" height="100%" fill="#ffffff"/>
+<text x="50" y="62" fill="#281414" font-family="Segoe UI, Arial, sans-serif" font-size="32" font-weight="600">Схема базы данных</text>
+<text x="50" y="96" fill="#786b63" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="400">Монолит · SQLite · связи между полями PK и FK</text>
+<polyline fill="none" stroke="#b68c63" stroke-width="2.5" points="390,218 450,218 450,452 390,452"/>
+<polyline fill="none" stroke="#783018" stroke-width="2" points="396,211 396,225"/>
+<polyline fill="none" stroke="#783018" stroke-width="2" points="404,211 404,225"/>
+<polyline fill="none" stroke="#783018" stroke-width="2" points="404,452 390,445"/>
+<polyline fill="none" stroke="#783018" stroke-width="2" points="404,452 390,452"/>
+<polyline fill="none" stroke="#783018" stroke-width="2" points="404,452 390,459"/>
+<circle cx="414" cy="452" r="4" fill="#ffffff" stroke="#783018" stroke-width="1.5"/>
+<text x="460" y="328" fill="#786b63" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="400">1 : N</text>
+<polyline fill="none" stroke="#b68c63" stroke-width="2.5" points="50,428 12,428 12,702 50,702"/>
+<polyline fill="none" stroke="#783018" stroke-width="2" points="44,421 44,435"/>
+<polyline fill="none" stroke="#783018" stroke-width="2" points="36,421 36,435"/>
+<polyline fill="none" stroke="#783018" stroke-width="2" points="36,702 50,695"/>
+<polyline fill="none" stroke="#783018" stroke-width="2" points="36,702 50,702"/>
+<polyline fill="none" stroke="#783018" stroke-width="2" points="36,702 50,709"/>
+<circle cx="26" cy="702" r="4" fill="#ffffff" stroke="#783018" stroke-width="1.5"/>
+<text x="5" y="566" fill="#786b63" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="400">1 : N</text>
+<polyline fill="none" stroke="#b68c63" stroke-width="2.5" points="390,678 450,678 450,927 390,927"/>
+<polyline fill="none" stroke="#783018" stroke-width="2" points="396,671 396,685"/>
+<polyline fill="none" stroke="#783018" stroke-width="2" points="404,671 404,685"/>
+<polyline fill="none" stroke="#783018" stroke-width="2" points="404,927 390,920"/>
+<polyline fill="none" stroke="#783018" stroke-width="2" points="404,927 390,927"/>
+<polyline fill="none" stroke="#783018" stroke-width="2" points="404,927 390,934"/>
+<circle cx="414" cy="927" r="4" fill="#ffffff" stroke="#783018" stroke-width="1.5"/>
+<text x="460" y="797" fill="#786b63" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="400">1 : N</text>
+<polyline fill="none" stroke="#b68c63" stroke-width="2.5" points="50,903 12,903 12,1152 50,1152"/>
+<polyline fill="none" stroke="#783018" stroke-width="2" points="44,896 44,910"/>
+<polyline fill="none" stroke="#783018" stroke-width="2" points="36,896 36,910"/>
+<polyline fill="none" stroke="#783018" stroke-width="2" points="36,1152 50,1145"/>
+<polyline fill="none" stroke="#783018" stroke-width="2" points="36,1152 50,1152"/>
+<polyline fill="none" stroke="#783018" stroke-width="2" points="36,1152 50,1159"/>
+<circle cx="26" cy="1152" r="4" fill="#ffffff" stroke="#783018" stroke-width="1.5"/>
+<text x="5" y="1009" fill="#786b63" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="400">1 : N</text>
+<polyline fill="none" stroke="#b68c63" stroke-width="2.5" points="650,218 600,218 600,502 650,502"/>
+<polyline fill="none" stroke="#783018" stroke-width="2" points="644,211 644,225"/>
+<polyline fill="none" stroke="#783018" stroke-width="2" points="636,211 636,225"/>
+<polyline fill="none" stroke="#783018" stroke-width="2" points="636,502 650,495"/>
+<polyline fill="none" stroke="#783018" stroke-width="2" points="636,502 650,502"/>
+<polyline fill="none" stroke="#783018" stroke-width="2" points="636,502 650,509"/>
+<circle cx="626" cy="502" r="4" fill="#ffffff" stroke="#783018" stroke-width="1.5"/>
+<text x="548" y="331" fill="#786b63" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="400">1 : N</text>
+<polyline fill="none" stroke="#b68c63" stroke-width="2.5" points="50,428 24,428 24,540 560,540 560,526 650,526"/>
+<polyline fill="none" stroke="#783018" stroke-width="2" points="44,421 44,435"/>
+<polyline fill="none" stroke="#783018" stroke-width="2" points="36,421 36,435"/>
+<polyline fill="none" stroke="#783018" stroke-width="2" points="636,526 650,519"/>
+<polyline fill="none" stroke="#783018" stroke-width="2" points="636,526 650,526"/>
+<polyline fill="none" stroke="#783018" stroke-width="2" points="636,526 650,533"/>
+<circle cx="626" cy="526" r="4" fill="#ffffff" stroke="#783018" stroke-width="1.5"/>
+<text x="300" y="560" fill="#786b63" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="400">1 : N</text>
+<polyline fill="none" stroke="#b68c63" stroke-width="2.5" points="1040,478 1100,478 1100,1017 1040,1017"/>
+<polyline fill="none" stroke="#783018" stroke-width="2" points="1046,471 1046,485"/>
+<polyline fill="none" stroke="#783018" stroke-width="2" points="1054,471 1054,485"/>
+<polyline fill="none" stroke="#783018" stroke-width="2" points="1054,1017 1040,1010"/>
+<polyline fill="none" stroke="#783018" stroke-width="2" points="1054,1017 1040,1017"/>
+<polyline fill="none" stroke="#783018" stroke-width="2" points="1054,1017 1040,1024"/>
+<circle cx="1064" cy="1017" r="4" fill="#ffffff" stroke="#783018" stroke-width="1.5"/>
+<text x="1053" y="882" fill="#786b63" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="400">1 : N</text>
+<polyline fill="none" stroke="#b68c63" stroke-width="2.5" points="650,993 570,993 570,1041 650,1041"/>
+<polyline fill="none" stroke="#783018" stroke-width="2" points="644,986 644,1000"/>
+<circle cx="633" cy="993" r="4" fill="#ffffff" stroke="#783018" stroke-width="1.5"/>
+<polyline fill="none" stroke="#783018" stroke-width="2" points="636,1041 650,1034"/>
+<polyline fill="none" stroke="#783018" stroke-width="2" points="636,1041 650,1041"/>
+<polyline fill="none" stroke="#783018" stroke-width="2" points="636,1041 650,1048"/>
+<circle cx="626" cy="1041" r="4" fill="#ffffff" stroke="#783018" stroke-width="1.5"/>
+<text x="481" y="1017" fill="#786b63" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="400">0..1 : N</text>
+<polyline fill="none" stroke="#b68c63" stroke-width="2.5" points="1040,218 1760,218 1760,502 1720,502"/>
+<polyline fill="none" stroke="#783018" stroke-width="2" points="1046,211 1046,225"/>
+<polyline fill="none" stroke="#783018" stroke-width="2" points="1054,211 1054,225"/>
+<polyline fill="none" stroke="#783018" stroke-width="2" points="1734,502 1720,495"/>
+<polyline fill="none" stroke="#783018" stroke-width="2" points="1734,502 1720,502"/>
+<polyline fill="none" stroke="#783018" stroke-width="2" points="1734,502 1720,509"/>
+<circle cx="1744" cy="502" r="4" fill="#ffffff" stroke="#783018" stroke-width="1.5"/>
+<text x="1510" y="244" fill="#786b63" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="400">1 : N</text>
+<polyline fill="none" stroke="#b68c63" stroke-width="2.5" points="1040,478 1180,478 1180,526 1270,526"/>
+<polyline fill="none" stroke="#783018" stroke-width="2" points="1046,471 1046,485"/>
+<polyline fill="none" stroke="#783018" stroke-width="2" points="1054,471 1054,485"/>
+<polyline fill="none" stroke="#783018" stroke-width="2" points="1256,526 1270,519"/>
+<polyline fill="none" stroke="#783018" stroke-width="2" points="1256,526 1270,526"/>
+<polyline fill="none" stroke="#783018" stroke-width="2" points="1256,526 1270,533"/>
+<circle cx="1246" cy="526" r="4" fill="#ffffff" stroke="#783018" stroke-width="1.5"/>
+<text x="1100" y="460" fill="#786b63" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="400">1 : N</text>
+<polyline fill="none" stroke="#b68c63" stroke-width="2.5" points="1040,993 1160,993 1160,574 1270,574"/>
+<polyline fill="none" stroke="#783018" stroke-width="2" points="1046,986 1046,1000"/>
+<circle cx="1057" cy="993" r="4" fill="#ffffff" stroke="#783018" stroke-width="1.5"/>
+<polyline fill="none" stroke="#783018" stroke-width="2" points="1256,574 1270,567"/>
+<polyline fill="none" stroke="#783018" stroke-width="2" points="1256,574 1270,574"/>
+<polyline fill="none" stroke="#783018" stroke-width="2" points="1256,574 1270,581"/>
+<circle cx="1246" cy="574" r="4" fill="#ffffff" stroke="#783018" stroke-width="1.5"/>
+<text x="1170" y="672" fill="#786b63" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="400">0..1 : N</text>
+<polyline fill="none" stroke="#b68c63" stroke-width="2.5" points="50,1128 28,1128 28,1310 1760,1310 1760,550 1720,550"/>
+<polyline fill="none" stroke="#783018" stroke-width="2" points="44,1121 44,1135"/>
+<polyline fill="none" stroke="#783018" stroke-width="2" points="36,1121 36,1135"/>
+<polyline fill="none" stroke="#783018" stroke-width="2" points="1734,550 1720,543"/>
+<polyline fill="none" stroke="#783018" stroke-width="2" points="1734,550 1720,550"/>
+<polyline fill="none" stroke="#783018" stroke-width="2" points="1734,550 1720,557"/>
+<circle cx="1744" cy="550" r="4" fill="#ffffff" stroke="#783018" stroke-width="1.5"/>
+<text x="1380" y="1329" fill="#786b63" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="400">1 : N</text>
+<polyline fill="none" stroke="#ffffff" stroke-width="8" points="1089,993 1111,993"/>
+<polyline fill="none" stroke="#b68c63" stroke-width="2.5" points="1089,993 1111,993"/>
+<rect x="50" y="130" width="340" height="140" rx="10" fill="#ffffff" stroke="#e6ded7"/>
+<rect x="50" y="130" width="340" height="62" rx="10" fill="#783018" stroke="none"/>
+<text x="68" y="162" fill="#ffffff" font-family="Consolas, monospace" font-size="21" font-weight="600">organizations</text>
+<text x="68" y="182" fill="#fff1d7" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="400">Организация</text>
+<rect x="53" y="205" width="334" height="23" rx="0" fill="#fff9f0" stroke="none"/>
+<text x="68" y="221" fill="#783018" font-family="Consolas, monospace" font-size="15" font-weight="600">PK</text>
+<text x="102" y="222" fill="#281414" font-family="Consolas, monospace" font-size="16" font-weight="600">id</text>
+<text x="314" y="219" fill="#786b63" font-family="Consolas, monospace" font-size="13" font-weight="400">INTEGER</text>
+<text x="102" y="246" fill="#281414" font-family="Consolas, monospace" font-size="16" font-weight="400">name</text>
+<text x="314" y="243" fill="#786b63" font-family="Consolas, monospace" font-size="13" font-weight="400">TEXT</text>
+<rect x="50" y="340" width="340" height="188" rx="10" fill="#ffffff" stroke="#e6ded7"/>
+<rect x="50" y="340" width="340" height="62" rx="10" fill="#783018" stroke="none"/>
+<text x="68" y="372" fill="#ffffff" font-family="Consolas, monospace" font-size="21" font-weight="600">departments</text>
+<text x="68" y="392" fill="#fff1d7" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="400">Направления продаж</text>
+<rect x="53" y="415" width="334" height="23" rx="0" fill="#fff9f0" stroke="none"/>
+<text x="68" y="431" fill="#783018" font-family="Consolas, monospace" font-size="15" font-weight="600">PK</text>
+<text x="102" y="432" fill="#281414" font-family="Consolas, monospace" font-size="16" font-weight="600">id</text>
+<text x="314" y="429" fill="#786b63" font-family="Consolas, monospace" font-size="13" font-weight="400">TEXT</text>
+<rect x="53" y="439" width="334" height="23" rx="0" fill="#fff9f0" stroke="none"/>
+<text x="68" y="455" fill="#783018" font-family="Consolas, monospace" font-size="15" font-weight="600">FK</text>
+<text x="102" y="456" fill="#281414" font-family="Consolas, monospace" font-size="16" font-weight="400">organization_id</text>
+<text x="314" y="453" fill="#786b63" font-family="Consolas, monospace" font-size="13" font-weight="400">INTEGER</text>
+<text x="102" y="480" fill="#281414" font-family="Consolas, monospace" font-size="16" font-weight="400">name</text>
+<text x="314" y="477" fill="#786b63" font-family="Consolas, monospace" font-size="13" font-weight="400">TEXT</text>
+<text x="102" y="504" fill="#281414" font-family="Consolas, monospace" font-size="16" font-weight="400">source_name</text>
+<text x="314" y="501" fill="#786b63" font-family="Consolas, monospace" font-size="13" font-weight="400">TEXT</text>
+<rect x="50" y="590" width="340" height="164" rx="10" fill="#ffffff" stroke="#e6ded7"/>
+<rect x="50" y="590" width="340" height="62" rx="10" fill="#783018" stroke="none"/>
+<text x="68" y="622" fill="#ffffff" font-family="Consolas, monospace" font-size="21" font-weight="600">counterparties</text>
+<text x="68" y="642" fill="#fff1d7" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="400">Контрагенты в отделе</text>
+<rect x="53" y="665" width="334" height="23" rx="0" fill="#fff9f0" stroke="none"/>
+<text x="68" y="681" fill="#783018" font-family="Consolas, monospace" font-size="15" font-weight="600">PK</text>
+<text x="102" y="682" fill="#281414" font-family="Consolas, monospace" font-size="16" font-weight="600">id</text>
+<text x="314" y="679" fill="#786b63" font-family="Consolas, monospace" font-size="13" font-weight="400">INTEGER</text>
+<rect x="53" y="689" width="334" height="23" rx="0" fill="#fff9f0" stroke="none"/>
+<text x="68" y="705" fill="#783018" font-family="Consolas, monospace" font-size="15" font-weight="600">FK</text>
+<text x="102" y="706" fill="#281414" font-family="Consolas, monospace" font-size="16" font-weight="400">department_id</text>
+<text x="314" y="703" fill="#786b63" font-family="Consolas, monospace" font-size="13" font-weight="400">TEXT</text>
+<text x="102" y="730" fill="#281414" font-family="Consolas, monospace" font-size="16" font-weight="400">name</text>
+<text x="314" y="727" fill="#786b63" font-family="Consolas, monospace" font-size="13" font-weight="400">TEXT</text>
+<rect x="50" y="815" width="340" height="164" rx="10" fill="#ffffff" stroke="#e6ded7"/>
+<rect x="50" y="815" width="340" height="62" rx="10" fill="#783018" stroke="none"/>
+<text x="68" y="847" fill="#ffffff" font-family="Consolas, monospace" font-size="21" font-weight="600">contracts</text>
+<text x="68" y="867" fill="#fff1d7" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="400">Договоры контрагентов</text>
+<rect x="53" y="890" width="334" height="23" rx="0" fill="#fff9f0" stroke="none"/>
+<text x="68" y="906" fill="#783018" font-family="Consolas, monospace" font-size="15" font-weight="600">PK</text>
+<text x="102" y="907" fill="#281414" font-family="Consolas, monospace" font-size="16" font-weight="600">id</text>
+<text x="314" y="904" fill="#786b63" font-family="Consolas, monospace" font-size="13" font-weight="400">INTEGER</text>
+<rect x="53" y="914" width="334" height="23" rx="0" fill="#fff9f0" stroke="none"/>
+<text x="68" y="930" fill="#783018" font-family="Consolas, monospace" font-size="15" font-weight="600">FK</text>
+<text x="102" y="931" fill="#281414" font-family="Consolas, monospace" font-size="16" font-weight="400">counterparty_id</text>
+<text x="314" y="928" fill="#786b63" font-family="Consolas, monospace" font-size="13" font-weight="400">INTEGER</text>
+<text x="102" y="955" fill="#281414" font-family="Consolas, monospace" font-size="16" font-weight="400">name</text>
+<text x="314" y="952" fill="#786b63" font-family="Consolas, monospace" font-size="13" font-weight="400">TEXT</text>
+<rect x="50" y="1040" width="340" height="212" rx="10" fill="#ffffff" stroke="#e6ded7"/>
+<rect x="50" y="1040" width="340" height="62" rx="10" fill="#783018" stroke="none"/>
+<text x="68" y="1072" fill="#ffffff" font-family="Consolas, monospace" font-size="21" font-weight="600">documents</text>
+<text x="68" y="1092" fill="#fff1d7" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="400">Документы и распределения</text>
+<rect x="53" y="1115" width="334" height="23" rx="0" fill="#fff9f0" stroke="none"/>
+<text x="68" y="1131" fill="#783018" font-family="Consolas, monospace" font-size="15" font-weight="600">PK</text>
+<text x="102" y="1132" fill="#281414" font-family="Consolas, monospace" font-size="16" font-weight="600">id</text>
+<text x="314" y="1129" fill="#786b63" font-family="Consolas, monospace" font-size="13" font-weight="400">INTEGER</text>
+<rect x="53" y="1139" width="334" height="23" rx="0" fill="#fff9f0" stroke="none"/>
+<text x="68" y="1155" fill="#783018" font-family="Consolas, monospace" font-size="15" font-weight="600">FK</text>
+<text x="102" y="1156" fill="#281414" font-family="Consolas, monospace" font-size="16" font-weight="400">contract_id</text>
+<text x="314" y="1153" fill="#786b63" font-family="Consolas, monospace" font-size="13" font-weight="400">INTEGER</text>
+<text x="102" y="1180" fill="#281414" font-family="Consolas, monospace" font-size="16" font-weight="400">allocation_key</text>
+<text x="314" y="1177" fill="#786b63" font-family="Consolas, monospace" font-size="13" font-weight="400">TEXT</text>
+<text x="102" y="1204" fill="#281414" font-family="Consolas, monospace" font-size="16" font-weight="400">name</text>
+<text x="314" y="1201" fill="#786b63" font-family="Consolas, monospace" font-size="13" font-weight="400">TEXT</text>
+<text x="102" y="1228" fill="#281414" font-family="Consolas, monospace" font-size="16" font-weight="400">kind</text>
+<text x="314" y="1225" fill="#786b63" font-family="Consolas, monospace" font-size="13" font-weight="400">TEXT</text>
+<rect x="650" y="130" width="390" height="164" rx="10" fill="#ffffff" stroke="#e6ded7"/>
+<rect x="650" y="130" width="390" height="62" rx="10" fill="#783018" stroke="none"/>
+<text x="668" y="162" fill="#ffffff" font-family="Consolas, monospace" font-size="21" font-weight="600">snapshots</text>
+<text x="668" y="182" fill="#fff1d7" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="400">Дата и режим данных</text>
+<rect x="653" y="205" width="384" height="23" rx="0" fill="#fff9f0" stroke="none"/>
+<text x="668" y="221" fill="#783018" font-family="Consolas, monospace" font-size="15" font-weight="600">PK</text>
+<text x="702" y="222" fill="#281414" font-family="Consolas, monospace" font-size="16" font-weight="600">id</text>
+<text x="964" y="219" fill="#786b63" font-family="Consolas, monospace" font-size="13" font-weight="400">INTEGER</text>
+<text x="702" y="246" fill="#281414" font-family="Consolas, monospace" font-size="16" font-weight="400">snapshot_date</text>
+<text x="964" y="243" fill="#786b63" font-family="Consolas, monospace" font-size="13" font-weight="400">TEXT</text>
+<text x="702" y="270" fill="#281414" font-family="Consolas, monospace" font-size="16" font-weight="400">mode</text>
+<text x="964" y="267" fill="#786b63" font-family="Consolas, monospace" font-size="13" font-weight="400">TEXT</text>
+<rect x="650" y="390" width="390" height="380" rx="10" fill="#ffffff" stroke="#e6ded7"/>
+<rect x="650" y="390" width="390" height="62" rx="10" fill="#783018" stroke="none"/>
+<text x="668" y="422" fill="#ffffff" font-family="Consolas, monospace" font-size="21" font-weight="600">imports</text>
+<text x="668" y="442" fill="#fff1d7" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="400">Загрузка файла и контрольные итоги</text>
+<rect x="653" y="465" width="384" height="23" rx="0" fill="#fff9f0" stroke="none"/>
+<text x="668" y="481" fill="#783018" font-family="Consolas, monospace" font-size="15" font-weight="600">PK</text>
+<text x="702" y="482" fill="#281414" font-family="Consolas, monospace" font-size="16" font-weight="600">id</text>
+<text x="964" y="479" fill="#786b63" font-family="Consolas, monospace" font-size="13" font-weight="400">INTEGER</text>
+<rect x="653" y="489" width="384" height="23" rx="0" fill="#fff9f0" stroke="none"/>
+<text x="668" y="505" fill="#783018" font-family="Consolas, monospace" font-size="15" font-weight="600">FK</text>
+<text x="702" y="506" fill="#281414" font-family="Consolas, monospace" font-size="16" font-weight="400">snapshot_id</text>
+<text x="964" y="503" fill="#786b63" font-family="Consolas, monospace" font-size="13" font-weight="400">INTEGER</text>
+<rect x="653" y="513" width="384" height="23" rx="0" fill="#fff9f0" stroke="none"/>
+<text x="668" y="529" fill="#783018" font-family="Consolas, monospace" font-size="15" font-weight="600">FK</text>
+<text x="702" y="530" fill="#281414" font-family="Consolas, monospace" font-size="16" font-weight="400">department_id</text>
+<text x="964" y="527" fill="#786b63" font-family="Consolas, monospace" font-size="13" font-weight="400">TEXT</text>
+<text x="702" y="554" fill="#281414" font-family="Consolas, monospace" font-size="16" font-weight="400">source_filename</text>
+<text x="964" y="551" fill="#786b63" font-family="Consolas, monospace" font-size="13" font-weight="400">TEXT</text>
+<text x="702" y="578" fill="#281414" font-family="Consolas, monospace" font-size="16" font-weight="400">source_hash</text>
+<text x="964" y="575" fill="#786b63" font-family="Consolas, monospace" font-size="13" font-weight="400">TEXT</text>
+<text x="702" y="602" fill="#281414" font-family="Consolas, monospace" font-size="16" font-weight="400">imported_at</text>
+<text x="964" y="599" fill="#786b63" font-family="Consolas, monospace" font-size="13" font-weight="400">TEXT</text>
+<text x="702" y="626" fill="#281414" font-family="Consolas, monospace" font-size="16" font-weight="400">document_count</text>
+<text x="964" y="623" fill="#786b63" font-family="Consolas, monospace" font-size="13" font-weight="400">INTEGER</text>
+<text x="702" y="650" fill="#281414" font-family="Consolas, monospace" font-size="16" font-weight="400">node_count</text>
+<text x="964" y="647" fill="#786b63" font-family="Consolas, monospace" font-size="13" font-weight="400">INTEGER</text>
+<text x="702" y="674" fill="#281414" font-family="Consolas, monospace" font-size="16" font-weight="400">control_sales</text>
+<text x="964" y="671" fill="#786b63" font-family="Consolas, monospace" font-size="13" font-weight="400">INTEGER</text>
+<text x="702" y="698" fill="#281414" font-family="Consolas, monospace" font-size="16" font-weight="400">control_total</text>
+<text x="964" y="695" fill="#786b63" font-family="Consolas, monospace" font-size="13" font-weight="400">INTEGER</text>
+<text x="702" y="722" fill="#281414" font-family="Consolas, monospace" font-size="16" font-weight="400">control_overdue</text>
+<text x="964" y="719" fill="#786b63" font-family="Consolas, monospace" font-size="13" font-weight="400">INTEGER</text>
+<text x="702" y="746" fill="#281414" font-family="Consolas, monospace" font-size="16" font-weight="400">control_our_debt</text>
+<text x="964" y="743" fill="#786b63" font-family="Consolas, monospace" font-size="13" font-weight="400">INTEGER</text>
+<rect x="650" y="905" width="390" height="356" rx="10" fill="#ffffff" stroke="#e6ded7"/>
+<rect x="650" y="905" width="390" height="62" rx="10" fill="#783018" stroke="none"/>
+<text x="668" y="937" fill="#ffffff" font-family="Consolas, monospace" font-size="21" font-weight="600">hierarchy_nodes</text>
+<text x="668" y="957" fill="#fff1d7" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="400">Дерево строк исходного отчёта</text>
+<rect x="653" y="980" width="384" height="23" rx="0" fill="#fff9f0" stroke="none"/>
+<text x="668" y="996" fill="#783018" font-family="Consolas, monospace" font-size="15" font-weight="600">PK</text>
+<text x="702" y="997" fill="#281414" font-family="Consolas, monospace" font-size="16" font-weight="600">id</text>
+<text x="964" y="994" fill="#786b63" font-family="Consolas, monospace" font-size="13" font-weight="400">INTEGER</text>
+<rect x="653" y="1004" width="384" height="23" rx="0" fill="#fff9f0" stroke="none"/>
+<text x="668" y="1020" fill="#783018" font-family="Consolas, monospace" font-size="15" font-weight="600">FK</text>
+<text x="702" y="1021" fill="#281414" font-family="Consolas, monospace" font-size="16" font-weight="400">import_id</text>
+<text x="964" y="1018" fill="#786b63" font-family="Consolas, monospace" font-size="13" font-weight="400">INTEGER</text>
+<rect x="653" y="1028" width="384" height="23" rx="0" fill="#fff9f0" stroke="none"/>
+<text x="668" y="1044" fill="#783018" font-family="Consolas, monospace" font-size="15" font-weight="600">FK</text>
+<text x="702" y="1045" fill="#281414" font-family="Consolas, monospace" font-size="16" font-weight="400">parent_id</text>
+<text x="964" y="1042" fill="#786b63" font-family="Consolas, monospace" font-size="13" font-weight="400">INTEGER</text>
+<text x="702" y="1069" fill="#281414" font-family="Consolas, monospace" font-size="16" font-weight="400">source_row</text>
+<text x="964" y="1066" fill="#786b63" font-family="Consolas, monospace" font-size="13" font-weight="400">INTEGER</text>
+<text x="702" y="1093" fill="#281414" font-family="Consolas, monospace" font-size="16" font-weight="400">indent</text>
+<text x="964" y="1090" fill="#786b63" font-family="Consolas, monospace" font-size="13" font-weight="400">INTEGER</text>
+<text x="702" y="1117" fill="#281414" font-family="Consolas, monospace" font-size="16" font-weight="400">label</text>
+<text x="964" y="1114" fill="#786b63" font-family="Consolas, monospace" font-size="13" font-weight="400">TEXT</text>
+<text x="702" y="1141" fill="#281414" font-family="Consolas, monospace" font-size="16" font-weight="400">role</text>
+<text x="964" y="1138" fill="#786b63" font-family="Consolas, monospace" font-size="13" font-weight="400">TEXT</text>
+<text x="702" y="1165" fill="#281414" font-family="Consolas, monospace" font-size="16" font-weight="400">sales</text>
+<text x="964" y="1162" fill="#786b63" font-family="Consolas, monospace" font-size="13" font-weight="400">INTEGER</text>
+<text x="702" y="1189" fill="#281414" font-family="Consolas, monospace" font-size="16" font-weight="400">total</text>
+<text x="964" y="1186" fill="#786b63" font-family="Consolas, monospace" font-size="13" font-weight="400">INTEGER</text>
+<text x="702" y="1213" fill="#281414" font-family="Consolas, monospace" font-size="16" font-weight="400">overdue</text>
+<text x="964" y="1210" fill="#786b63" font-family="Consolas, monospace" font-size="13" font-weight="400">INTEGER</text>
+<text x="702" y="1237" fill="#281414" font-family="Consolas, monospace" font-size="16" font-weight="400">our_debt</text>
+<text x="964" y="1234" fill="#786b63" font-family="Consolas, monospace" font-size="13" font-weight="400">INTEGER</text>
+<rect x="1270" y="390" width="450" height="476" rx="10" fill="#ffffff" stroke="#e6ded7"/>
+<rect x="1270" y="390" width="450" height="62" rx="10" fill="#783018" stroke="none"/>
+<text x="1288" y="422" fill="#ffffff" font-family="Consolas, monospace" font-size="21" font-weight="600">document_balances</text>
+<text x="1288" y="442" fill="#fff1d7" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="400">Остатки документов на дату</text>
+<rect x="1273" y="465" width="444" height="23" rx="0" fill="#fff9f0" stroke="none"/>
+<text x="1288" y="481" fill="#783018" font-family="Consolas, monospace" font-size="15" font-weight="600">PK</text>
+<text x="1322" y="482" fill="#281414" font-family="Consolas, monospace" font-size="16" font-weight="600">id</text>
+<text x="1644" y="479" fill="#786b63" font-family="Consolas, monospace" font-size="13" font-weight="400">INTEGER</text>
+<rect x="1273" y="489" width="444" height="23" rx="0" fill="#fff9f0" stroke="none"/>
+<text x="1288" y="505" fill="#783018" font-family="Consolas, monospace" font-size="15" font-weight="600">FK</text>
+<text x="1322" y="506" fill="#281414" font-family="Consolas, monospace" font-size="16" font-weight="400">snapshot_id</text>
+<text x="1644" y="503" fill="#786b63" font-family="Consolas, monospace" font-size="13" font-weight="400">INTEGER</text>
+<rect x="1273" y="513" width="444" height="23" rx="0" fill="#fff9f0" stroke="none"/>
+<text x="1288" y="529" fill="#783018" font-family="Consolas, monospace" font-size="15" font-weight="600">FK</text>
+<text x="1322" y="530" fill="#281414" font-family="Consolas, monospace" font-size="16" font-weight="400">import_id</text>
+<text x="1644" y="527" fill="#786b63" font-family="Consolas, monospace" font-size="13" font-weight="400">INTEGER</text>
+<rect x="1273" y="537" width="444" height="23" rx="0" fill="#fff9f0" stroke="none"/>
+<text x="1288" y="553" fill="#783018" font-family="Consolas, monospace" font-size="15" font-weight="600">FK</text>
+<text x="1322" y="554" fill="#281414" font-family="Consolas, monospace" font-size="16" font-weight="400">document_id</text>
+<text x="1644" y="551" fill="#786b63" font-family="Consolas, monospace" font-size="13" font-weight="400">INTEGER</text>
+<rect x="1273" y="561" width="444" height="23" rx="0" fill="#fff9f0" stroke="none"/>
+<text x="1288" y="577" fill="#783018" font-family="Consolas, monospace" font-size="15" font-weight="600">FK</text>
+<text x="1322" y="578" fill="#281414" font-family="Consolas, monospace" font-size="16" font-weight="400">hierarchy_node_id</text>
+<text x="1644" y="575" fill="#786b63" font-family="Consolas, monospace" font-size="13" font-weight="400">INTEGER</text>
+<text x="1322" y="602" fill="#281414" font-family="Consolas, monospace" font-size="16" font-weight="400">source_row</text>
+<text x="1644" y="599" fill="#786b63" font-family="Consolas, monospace" font-size="13" font-weight="400">INTEGER</text>
+<text x="1322" y="626" fill="#281414" font-family="Consolas, monospace" font-size="16" font-weight="400">created_date</text>
+<text x="1644" y="623" fill="#786b63" font-family="Consolas, monospace" font-size="13" font-weight="400">TEXT</text>
+<text x="1322" y="650" fill="#281414" font-family="Consolas, monospace" font-size="16" font-weight="400">due_date</text>
+<text x="1644" y="647" fill="#786b63" font-family="Consolas, monospace" font-size="13" font-weight="400">TEXT</text>
+<text x="1322" y="674" fill="#281414" font-family="Consolas, monospace" font-size="16" font-weight="400">days_until</text>
+<text x="1644" y="671" fill="#786b63" font-family="Consolas, monospace" font-size="13" font-weight="400">INTEGER</text>
+<text x="1322" y="698" fill="#281414" font-family="Consolas, monospace" font-size="16" font-weight="400">sales</text>
+<text x="1644" y="695" fill="#786b63" font-family="Consolas, monospace" font-size="13" font-weight="400">INTEGER</text>
+<text x="1322" y="722" fill="#281414" font-family="Consolas, monospace" font-size="16" font-weight="400">total</text>
+<text x="1644" y="719" fill="#786b63" font-family="Consolas, monospace" font-size="13" font-weight="400">INTEGER</text>
+<text x="1322" y="746" fill="#281414" font-family="Consolas, monospace" font-size="16" font-weight="400">overdue</text>
+<text x="1644" y="743" fill="#786b63" font-family="Consolas, monospace" font-size="13" font-weight="400">INTEGER</text>
+<text x="1322" y="770" fill="#281414" font-family="Consolas, monospace" font-size="16" font-weight="400">overdue_days</text>
+<text x="1644" y="767" fill="#786b63" font-family="Consolas, monospace" font-size="13" font-weight="400">INTEGER</text>
+<text x="1322" y="794" fill="#281414" font-family="Consolas, monospace" font-size="16" font-weight="400">our_debt</text>
+<text x="1644" y="791" fill="#786b63" font-family="Consolas, monospace" font-size="13" font-weight="400">INTEGER</text>
+<text x="1322" y="818" fill="#281414" font-family="Consolas, monospace" font-size="16" font-weight="400">manager</text>
+<text x="1644" y="815" fill="#786b63" font-family="Consolas, monospace" font-size="13" font-weight="400">TEXT</text>
+<text x="1322" y="842" fill="#281414" font-family="Consolas, monospace" font-size="16" font-weight="400">unit_path</text>
+<text x="1644" y="839" fill="#786b63" font-family="Consolas, monospace" font-size="13" font-weight="400">TEXT</text>
+<rect x="1270" y="1020" width="450" height="155" rx="10" fill="#fffaf2" stroke="#e6ded7"/>
+<text x="1292" y="1062" fill="#281414" font-family="Segoe UI, Arial, sans-serif" font-size="20" font-weight="600">Документы ↔ даты срезов</text>
+<text x="1292" y="1096" fill="#281414" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="400">N:M через document_balances</text>
+<text x="1292" y="1132" fill="#786b63" font-family="Consolas, monospace" font-size="16" font-weight="400">UNIQUE(snapshot_id, document_id)</text>
+<text x="50" y="1368" fill="#786b63" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="400">PK — первичный ключ   FK — внешний ключ   || — один   ○| — ноль или один   ○&lt; — ноль или много</text>
+</svg>
